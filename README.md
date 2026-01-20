@@ -20,6 +20,10 @@ This project is a FastAPI application that scrapes news articles based on keywor
    ```bash
    python -m spacy download en_core_web_sm
    ```
+4. **Download spacy model**
+   ```bash
+   playwright install
+   ```
 
 ## Running the Application
 
