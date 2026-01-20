@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 0,
+    "value": "yunnan",
+    "active": true
+  },
+  {
+    "id": 1,
+    "value": "bijnor",
+    "active": true
+  },
+  {
+    "id": 2,
+    "value": "noida",
+    "active": true
+  },
+  {
+    "id": 3,
+    "value": "chennai",
+    "active": true
+  }
+]

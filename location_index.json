@@ -1,1 +1,288 @@
-{}
+{
+  "kunming": [
+    0,
+    3
+  ],
+  "panlong district": [
+    0
+  ],
+  "china": [
+    0,
+    3,
+    4,
+    5,
+    10,
+    12,
+    15,
+    16,
+    18,
+    19
+  ],
+  "yunnan province": [
+    0,
+    2,
+    3,
+    4
+  ],
+  "yunnan": [
+    1,
+    2,
+    5
+  ],
+  "southwest china's": [
+    2,
+    3,
+    4,
+    16
+  ],
+  "east china's": [
+    2,
+    10
+  ],
+  "yongtai": [
+    2
+  ],
+  "fujian province": [
+    2
+  ],
+  "tengchong": [
+    2
+  ],
+  "tongzhou district": [
+    3
+  ],
+  "beijing": [
+    3,
+    10,
+    18
+  ],
+  "shanghai": [
+    3,
+    16
+  ],
+  "sanlitun": [
+    3
+  ],
+  "hong kong": [
+    4
+  ],
+  "fangchenggang city": [
+    5
+  ],
+  "asia": [
+    5,
+    16
+  ],
+  "germany": [
+    5,
+    15
+  ],
+  "sichuan": [
+    5
+  ],
+  "hainan": [
+    5
+  ],
+  "chongqing": [
+    5,
+    16
+  ],
+  "chongqing municipality": [
+    5
+  ],
+  "guangxi": [
+    5
+  ],
+  "bihar": [
+    6
+  ],
+  "maharashtra": [
+    6
+  ],
+  "gujarat": [
+    6,
+    17
+  ],
+  "west bengal": [
+    6
+  ],
+  "india": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19
+  ],
+  "orissa": [
+    6
+  ],
+  "kashmir": [
+    6
+  ],
+  "delhi": [
+    6,
+    9,
+    10,
+    14,
+    15
+  ],
+  "pakistan": [
+    6,
+    17
+  ],
+  "bijnor": [
+    6
+  ],
+  "laharpur": [
+    7
+  ],
+  "sitapur": [
+    7
+  ],
+  "noida": [
+    8,
+    9,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "new delhi": [
+    8,
+    9,
+    12,
+    16,
+    17
+  ],
+  "apex": [
+    8
+  ],
+  "ghaziabad": [
+    9
+  ],
+  "faridabad": [
+    9
+  ],
+  "shandong province": [
+    10
+  ],
+  "uttar pradesh": [
+    10,
+    13
+  ],
+  "south india": [
+    12
+  ],
+  "mumbai": [
+    12,
+    17
+  ],
+  "rajkot": [
+    12
+  ],
+  "greater noida": [
+    12
+  ],
+  "oppo": [
+    12
+  ],
+  "foxconn": [
+    12
+  ],
+  "mosquito": [
+    13
+  ],
+  "pankaj": [
+    14,
+    15
+  ],
+  "glasgow": [
+    14
+  ],
+  "kumar": [
+    15
+  ],
+  "north america": [
+    15
+  ],
+  "earth": [
+    15
+  ],
+  "britain": [
+    15
+  ],
+  "europe": [
+    15,
+    18
+  ],
+  "east asia": [
+    15
+  ],
+  "kathmandu": [
+    16
+  ],
+  "niger": [
+    16
+  ],
+  "laos": [
+    16
+  ],
+  "zhejiang": [
+    16
+  ],
+  "vietnam": [
+    16
+  ],
+  "south china's": [
+    16
+  ],
+  "nepal": [
+    16
+  ],
+  "zhejiang province": [
+    16
+  ],
+  "paris": [
+    16
+  ],
+  "thailand": [
+    16
+  ],
+  "dhaka": [
+    17
+  ],
+  "south asia": [
+    17
+  ],
+  "ahmedabad": [
+    17
+  ],
+  "churu": [
+    17
+  ],
+  "gandhinagar": [
+    17
+  ],
+  "south asia's": [
+    17
+  ],
+  "south-north": [
+    18
+  ],
+  "saudi arabia": [
+    18
+  ],
+  "modi": [
+    19
+  ]
+}
