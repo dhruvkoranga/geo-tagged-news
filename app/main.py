@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from app.keyword_store import add_keyword, list_active_keywords
-from app.store import find_articles_by_location
+from app.store import get_articles_by_location
 
 app = FastAPI(title="GeoTaggedNews")
 
@@ -20,4 +20,4 @@ def get_keywords():
 
 @app.get("/articles/by-location")
 def articles_by_location(location: str):
-    return find_articles_by_location(location)
+    return get_articles_by_location(location)

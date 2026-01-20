@@ -51,3 +51,11 @@ def add_article(
     _save_json(LOCATION_INDEX_FILE, location_index)
 
     return article
+
+
+def get_articles_by_location(location: str):
+    articles = _load_json(ARTICLES_FILE, [])
+    location_index = _load_json(LOCATION_INDEX_FILE, {})
+
+    article_ids = location_index.get(location.lower(), [])
+    return [articles[i] for i in article_ids]
